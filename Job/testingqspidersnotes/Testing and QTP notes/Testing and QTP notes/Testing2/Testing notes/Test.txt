@@ -1,0 +1,31 @@
+1. Boundary Value Analysis and Equivalence partitioning
+
+2. Test Process followed in the company, starting from involvement of the test engineer from requiremenrs review to test execution & summarization
+
+3. Sample requirements review
+
+4. Derive test scenarios & test cases from a use cases. Use BVA to derive input data
+
+5. Read about traceability between use cases and test cases 
+
+interview questions
+
+1. about the last project and the role.
+
+2. about content of test plan and test case spec
+
+3. Defect reporting and tracking
+
+4. any defect prevention
+
+5. tools usage
+
+6. Test life cycle
+
+7. Types of testing and defs : Black Box, WHite box, Grey box
+
+8. Integration testing : stubs and driver programs. what is top down and bottom up approach
+
+9. What is regression testing
+
+10. system testing, performance testing
